@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Ever wondered how to excel at your job in IT?
 
-You can use the [editor on GitHub](https://github.com/t0asty/udacity-blog-post/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+So many people around the world think about improving life. In this short blog post, we aim to show how it is possible using the power of data, to increase your salary, tackle problems like a pro developer and choose the right major for a astonishing career. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
