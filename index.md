@@ -4,34 +4,28 @@ So many people around the world think about improving life. In this short blog p
 
 ![Image](success_pic.jpg)
 
-### Markdown
+Now let's see what makes you get the most out of your career.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What are the differences between people who come from a STEM background and those who did not?
 
-```markdown
-Syntax highlighted code block
+Traditionally, many people in fields like IT tend to have a STEM background. However, there are also a lot of people having chosen another major in their education. Can this have an influence on ones career? Do people from a STEM background have it easier?
 
-# Header 1
-## Header 2
-### Header 3
+|  | with STEM background        | without STEM background  |
+|:-------------|:-------------:| :-----:|
+| age started coding      | 15.302807	 | 17.896123 |
+| years of coding experience      | 13.410821	      |  12.118370	 |
+| years of professional coding experience | 8.538450 |  8.399191 |
+| is a developer by profession | 79.86 % | 66.80 % |
+| not primarily developer, but coding is part of job | 8.04 % | 17.51 % |
 
-- Bulleted
-- List
+As we can see, people who chose a STEM background on average started coding earlier, had more coding experience and are more likely to be developer by profession. So, to become a developer, choose a STEM major.
 
-1. Numbered
-2. List
+### How to maximize your hourly wage?
 
-**Bold** and _Italic_ and `Code` text
+There are some people working 50-60 hrs a week and make a lot of money out of that. But is it really worth it? Looking at just the salary falls short in one important point: Making 100k with, on average, 40 hrs per week is way better than working 60 hrs a week for the same salary. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### How does experience change the way coders handle problems?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/t0asty/udacity-blog-post/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A coder with a lot of experience in coding might have better approaches than someone relatively new to the field. Learning from more experienced members can have a huge impact on ones success. Hence, why not learn from experienced engineers and coders how to solve problems?
