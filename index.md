@@ -46,3 +46,20 @@ Here are some points that I observed from training a model to predict the hourly
 ### How does experience change the way coders handle problems?
 
 A coder with a lot of experience in coding might have better approaches than someone relatively new to the field. Learning from more experienced members can have a huge impact on ones success. Hence, why not learn from experienced engineers and coders how to solve problems?
+
+| Way to handle problem | influence on predicted coding experience |
+|:-------------|:-------------:|
+| Panic	| -2.395679|
+| Watch help / tutorial videos| -2.190738|
+| Play games |-2.106830 |
+| Go for a walk or other physical activity |1.732896|
+|Do other work and come back later |1.548600 |
+| Meditate	|0.707230|
+| Visit Stack Overflow| -0.397707	|
+| Call a coworker or friend |0.120678|
+
+One important point to learn from this data: **don't panic!!**. It's alright, you got stuck, keep on working. Experienced coders recommend physical activity or doing other tasks, while people with less coding experience prefer watching videos and playing games.
+
+## Conclusion
+
+To really boost your career, choose a STEM major, work in a big company or as a freelancer, and keep on working on other tasks when getting stuck on a problem. It can be that simple, right?
