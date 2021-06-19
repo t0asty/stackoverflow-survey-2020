@@ -2,6 +2,7 @@
 
 So many people around the world think about improving life. In this short blog post, we aim to show how it is possible using the power of data, to increase your salary, tackle problems like a pro developer and choose the right major for a astonishing career. 
 
+![Image](success_pic.jpg)
 
 ### Markdown
 
