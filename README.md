@@ -1,5 +1,7 @@
 # udacity-blog-post
 
+You can find the blogpost at https://t0asty.github.io/udacity-blog-post/
+
 ## Libraries used
 
 ```
